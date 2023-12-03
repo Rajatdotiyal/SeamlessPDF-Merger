@@ -13,3 +13,9 @@ Install dependencies
 Run the app
 Contributions Welcome!
 Feel free to contribute and make seamlessPDF Merger even better.
+
+
+how to run?
+To run this you need to use express generator first.
+install these node modules: 
+npm i pdf-merger-js, multer
